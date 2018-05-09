@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Portal Harcerza</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="szczep_array">
+        <item>1 WaDHiGZ</item>
+        <item>27 i 279 WDHiGZ "Szaniec"</item>
+        <item>50 WDHiGZ"</item>
+        <item>88 WDHiGZ "Rodło"</item>
+        <item>150 WDHiGZ</item>
+        <item>264 WDHiGZ</item>
+        <item>281 WDHiGZ</item>
+    </string-array>
+
+    <string-array name="stopnie_array">
+        <item>próba harcerza</item>
+        <item>próba harcerki</item>
+        <item>młodzik</item>
+        <item>ochotniczka</item>
+        <item>wywiadowca</item>
+        <item>tropicielka</item>
+        <item>ćwik</item>
+        <item>pionierka</item>
+        <item>harcerz orli</item>
+        <item>wędrowniczka</item>
+        <item>harcerz rzeczpospolitej</item>
+        <item>harcerka rzeczpospolitej</item>
+    </string-array>
+
+</resources>
